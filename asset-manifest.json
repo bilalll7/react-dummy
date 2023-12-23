@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-dummy/static/css/main.11d87d03.css",
+    "main.js": "/react-dummy/static/js/main.91944ab1.js",
+    "static/media/profil1.png": "/react-dummy/static/media/profil1.e1eb5b7894ee49913ed4.png",
+    "index.html": "/react-dummy/index.html",
+    "main.11d87d03.css.map": "/react-dummy/static/css/main.11d87d03.css.map",
+    "main.91944ab1.js.map": "/react-dummy/static/js/main.91944ab1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11d87d03.css",
+    "static/js/main.91944ab1.js"
+  ]
+}
